@@ -1,9 +1,10 @@
 # mirrors
-"Mirrors" is a simulation of an arbitrary physical system, where the goal is achieved using artificial evolution. 
 
-Fork of mirrors by Joonas Vali 
+## Fork of mirrors by Joonas Vali 
 
 "Mirrors" is a simulation of an arbitrary physical system, where the goal is achieved using artificial evolution. The simulation can be used to demonstrate how random mutations manage to create an overall progress towards perfection.
+
+https://sourceforge.net/projects/jmirrors/?source=directory
 
 Published on 29 Apr 2014 :  https://www.youtube.com/watch?v=WEZ35350D2k
 
@@ -24,7 +25,7 @@ The simulation can be used to demonstrate how random mutations manage to create 
 
 Evolution
 
-	use runner under 'evolution', to start evolution.
+	use runner under '/bin/evolution', to start evolution.
 	
 	- Windows: evolution/run-evolution.cmd
 	- Unix/mac: evolution/run-evolution.sh
