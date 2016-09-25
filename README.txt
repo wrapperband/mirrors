@@ -1,21 +1,3 @@
-# mirrors
-"Mirrors" is a simulation of an arbitrary physical system, where the goal is achieved using artificial evolution. 
-
-Fork of mirrors by Joonas Vali 
-
-"Mirrors" is a simulation of an arbitrary physical system, where the goal is achieved using artificial evolution. The simulation can be used to demonstrate how random mutations manage to create an overall progress towards perfection.
-
-Published on 29 Apr 2014 :  https://www.youtube.com/watch?v=WEZ35350D2k
-
-Joonas Vali says "I have created a fictional physical problem, where the goal is to gather maximum amount of particles in shortest time possible. The solution is found using artificial evolution and genetic algorithms."
-
-Software written in Java using Watchmaker for genetic algorithms and Slick2d for graphics.
-
-This project was open sourced at 4/4/2016. Source available in bitbucket. Fork if needed.
-
-https://bitbucket.org/jvali/mirrors
-
-
 Mirrors (C) Joonas Vali  (2014-2016)
 
 Simulation of an arbitrary physical system, where the goal is achieved using artificial evolution. 
@@ -45,4 +27,3 @@ Test random simulation
 	Random simulation can be run using runner 'run-random' under 'bin/single' to test the engine.
 	- Windows: single/run-random.cmd
 	- Unix: single/run-random.sh
-
